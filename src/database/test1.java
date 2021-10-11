@@ -21,6 +21,9 @@ public class test1 {
 		{
 			System.out.println(rs.getString("username"));
 			System.out.println(rs.getString("password"));
+			System.out.println(rs.getString("password"));
+			System.out.println(rs.getString("password"));
+			System.out.println(rs.getString("password"));
 		}
 	}
 
